@@ -1,2 +1,2 @@
-# CellularAutomaton
-This repository contains a framework for using Cellular Automata
+# CellularAutomata
+A repository with implementations of different cellular automata
